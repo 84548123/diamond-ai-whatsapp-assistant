@@ -1,0 +1,587 @@
+[
+  {
+    "query": "Send ur list",
+    "intent": "general",
+    "response": "List abhi bhej raha hu bhai. Koi particular chahiye?"
+  },
+  {
+    "query": "1stone can send hk ?",
+    "intent": "general",
+    "response": "1 stone HK bhej sakte hain bhai. Next day pahunch jaata hai."
+  },
+  {
+    "query": "available??",
+    "intent": "general",
+    "response": "Checking bhai. Rep No / Stone ID or pic bhejo."
+  },
+  {
+    "query": "Surat delivery",
+    "intent": "general",
+    "response": "Surat delivery ready hai bhai. Kab tak chahiye?"
+  },
+  {
+    "query": "Hold karo stone",
+    "intent": "general",
+    "response": "Hold kar sakte hain bhai. Kaunsa stone hai? Memo pe bhej du?"
+  },
+  {
+    "query": "Available?",
+    "intent": "general",
+    "response": "Checking bhai. Rep No / Stone ID mokalo."
+  },
+  {
+    "query": "Can you send me available list of this pic 1.00ct",
+    "intent": "general",
+    "response": "Pic wala 1.00ct check kar raha hu. Available list bhejta hu."
+  },
+  {
+    "query": "Can you send me excel lists of yours",
+    "intent": "general",
+    "response": "Excel list abhi bhej raha hu bhai."
+  },
+  {
+    "query": "Ok ne ?",
+    "intent": "general",
+    "response": "Theek hai bhai. Kya chahiye?"
+  },
+  {
+    "query": "Atleast reply ?",
+    "intent": "general",
+    "response": "Jaldi reply kar raha hu bhai. Checking kar raha hu."
+  },
+  {
+    "query": "Stone ??",
+    "intent": "general",
+    "response": "Stone checking kar raha hu bhai. Rep No bhejo."
+  },
+  {
+    "query": "Available che ?",
+    "intent": "general",
+    "response": "Checking right now bhai. Rep No or picture mokalo jaldi."
+  },
+  {
+    "query": "Hello ?",
+    "intent": "general",
+    "response": "Hello bhai! Kya chahiye? List chahiye?"
+  },
+  {
+    "query": "what price can do",
+    "intent": "general",
+    "response": "Price pe baat karte hain bhai. Kya offer hai aapka?"
+  },
+  {
+    "query": "ok?",
+    "intent": "general",
+    "response": "Theek hai bhai."
+  },
+  {
+    "query": "ok , thank you , you can ignore the selections now",
+    "intent": "general",
+    "response": "Theek hai bhai. Thank you!"
+  },
+  {
+    "query": "please check if they are available",
+    "intent": "general",
+    "response": "Checking right now bhai. Rep No or picture mokalo jaldi."
+  },
+  {
+    "query": "may i have your stock list",
+    "intent": "general",
+    "response": "Stock list abhi bhej raha hu bhai."
+  },
+  {
+    "query": "how are you",
+    "intent": "general",
+    "response": "Hello bhai! Theek hu. Kya chahiye?"
+  },
+  {
+    "query": "Hamna ?",
+    "intent": "general",
+    "response": "Samajh gaya bhai. Jaldi check karke bataata hu."
+  },
+  {
+    "query": "Parcle kri apu?",
+    "intent": "general",
+    "response": "Parcel kar sakte hain bhai. Advance ya COD?"
+  },
+  {
+    "query": "Round che ?",
+    "intent": "general",
+    "response": "Round available hain bhai. Kaunsa size chahiye?"
+  },
+  {
+    "query": "BAKI NA 5 PCS NO BGM CHENE?",
+    "intent": "general",
+    "response": "BGM nahi hai isme bhai. Confirm hai."
+  },
+  {
+    "query": "Isme less one thase ?",
+    "intent": "general",
+    "response": "Less one thase nahi bhai. Exact hai."
+  },
+  {
+    "query": "Diamond aje kri apso parcle ?",
+    "intent": "general",
+    "response": "Diamond aje parcel kar sakte hain. Kaunsa?"
+  },
+  {
+    "query": "To payment kru k na kru?",
+    "intent": "general",
+    "response": "Payment karo to confirm kar dete hain bhai. Kaunsa stone?"
+  },
+  {
+    "query": "A PCS NO BGM CHENE ?",
+    "intent": "general",
+    "response": "BGM nahi hai isme. Confirm hai bhai."
+  },
+  {
+    "query": "K bill ma j thase?",
+    "intent": "general",
+    "response": "Bill ke saath de sakte hain bhai."
+  },
+  {
+    "query": "Apde cash ma krvu hoy to thase?",
+    "intent": "general",
+    "response": "Cash ma thase bhai. Theek hai."
+  },
+  {
+    "query": "Ama 5$ add ny thay ne?",
+    "intent": "general",
+    "response": "5$ add nahi hota bhai. Fixed price hai."
+  },
+  {
+    "query": "Available?",
+    "intent": "general",
+    "response": "Checking bhai. Rep No / Stone ID mokalo."
+  },
+  {
+    "query": "no bgm?",
+    "intent": "general",
+    "response": "BGM nahi hai isme. Confirm hai bhai."
+  },
+  {
+    "query": "I want memo Possible?",
+    "intent": "general",
+    "response": "Memo pe bhej sakte hain bhai. Kaunsa stone?"
+  },
+  {
+    "query": "Hello, is this available? Please let me know first thing tomorrow morning",
+    "intent": "general",
+    "response": "Checking bhai. Rep No / Stone ID bhejo. Kal subah confirm kar denge."
+  },
+  {
+    "query": "Ek brokerage joi leso to lai jav?",
+    "intent": "general",
+    "response": "Brokerage 1% fixed hai bhai. Problem nahi hoga."
+  },
+  {
+    "query": "Thyo free stone?",
+    "intent": "general",
+    "response": "Free stone nahi bhai. Price pe baat karte hain."
+  },
+  {
+    "query": "Gresh nu tamari pase ?",
+    "intent": "general",
+    "response": "Gresh available hai. Rep No bhejo."
+  },
+  {
+    "query": "Without bill apo cho ?",
+    "intent": "general",
+    "response": "Bill ke saath bhi de sakte hain bhai."
+  },
+  {
+    "query": "LGOV90-2946 Available ?",
+    "intent": "general",
+    "response": "LGOV90-2946 checking bhai. Rep No / Stone ID or pic mokalo confirm karne ke liye."
+  },
+  {
+    "query": "Mangeshbhai will come. Kone Malwa kahu. Shryashbhai ?",
+    "intent": "general",
+    "response": "Samajh gaya bhai. Jaldi check karke bataata hu."
+  },
+  {
+    "query": "Where I send office no pls .  ?",
+    "intent": "general",
+    "response": "Office details bhejta hu bhai. Parcel kar dete hain."
+  },
+  {
+    "query": "Hello Tarang Bhai please send me your updated stock list",
+    "intent": "general",
+    "response": "Hello bhai! Updated list abhi bhej raha hu. Koi particular chahiye?"
+  },
+  {
+    "query": "update list ..?",
+    "intent": "general",
+    "response": "Update list bhej raha hu bhai."
+  },
+  {
+    "query": "Do you need my kyc ?",
+    "intent": "general",
+    "response": "KYC nahi chahiye bhai. List chahiye to bolo."
+  },
+  {
+    "query": "Sir can I get these pcs on approval ?",
+    "intent": "general",
+    "response": "Approval pe bhej sakte hain bhai. Kaunsa pcs?"
+  },
+  {
+    "query": "Par kabhi ?",
+    "intent": "general",
+    "response": "Parcel kabhi bhej sakte hain bhai. Kab chahiye?"
+  },
+  {
+    "query": "Sir ye dono ka brokerage milega?",
+    "intent": "general",
+    "response": "Brokerage 1% fixed hai bhai. Dono pe milega."
+  },
+  {
+    "query": "Pls let me know when to Send ?",
+    "intent": "general",
+    "response": "Parcel kar dete hain bhai. Kab bhejna hai?"
+  },
+  {
+    "query": "brokerage aap denge na ?",
+    "intent": "general",
+    "response": "Brokerage 1% fixed hai bhai. Problem nahi hoga."
+  },
+  {
+    "query": "Ur good name sir ?",
+    "intent": "general",
+    "response": "Tarang bhai yahan. Kya chahiye?"
+  },
+  {
+    "query": "Broker ka Sort ho gaya ?",
+    "intent": "general",
+    "response": "Brokerage sort hai bhai. 1% fixed."
+  },
+  {
+    "query": "Kabhi tak sort ho jayega ?",
+    "intent": "general",
+    "response": "Jaldi sort ho jayega bhai. Abhi list bhej raha hu."
+  },
+  {
+    "query": "Need to buy but broker saying that brokerage issue is not sorted ?",
+    "intent": "general",
+    "response": "Brokerage issue sorted hai bhai. 1% fixed hai."
+  },
+  {
+    "query": "I ask broker to collect today ?",
+    "intent": "general",
+    "response": "Broker se collect karwa lo bhai. Payment ready hai?"
+  },
+  {
+    "query": "Can i get a twizzer or shade card video?",
+    "intent": "general",
+    "response": "Twizzer + shade card + hand video abhi bhejta hu bhai."
+  },
+  {
+    "query": "parcle kari dov?",
+    "intent": "general",
+    "response": "Parcel kar dete hain bhai. Kaunsa stone?"
+  },
+  {
+    "query": "Parcel sent?",
+    "intent": "general",
+    "response": "Parcel kar dete hain bhai. Advance chahiye ya COD?"
+  },
+  {
+    "query": "Aa stone surat mokal so?",
+    "intent": "general",
+    "response": "Surat mokal sakte hain bhai. Kab tak chahiye?"
+  },
+  {
+    "query": "Jova mokalo cho ?",
+    "intent": "general",
+    "response": "Jova mokal sakte hain bhai. Video bhejta hu."
+  },
+  {
+    "query": "Could I get certificates ?",
+    "intent": "general",
+    "response": "Certificate + video bhejta hu bhai."
+  },
+  {
+    "query": "Do you want the office details as well ?",
+    "intent": "general",
+    "response": "Office details bhejta hu bhai."
+  },
+  {
+    "query": "Ashok courier?",
+    "intent": "general",
+    "response": "Ashok courier se bhej sakte hain bhai."
+  },
+  {
+    "query": "Invoice after payment?",
+    "intent": "general",
+    "response": "Payment ke baad invoice bhej denge bhai."
+  },
+  {
+    "query": "Stock list mokalso please??",
+    "intent": "general",
+    "response": "Stock list mokalta hu bhai. Abhi bhej raha hu."
+  },
+  {
+    "query": "Have you sent us the Bill copy ?",
+    "intent": "general",
+    "response": "Bill copy bhej raha hu bhai."
+  },
+  {
+    "query": "It\u2019s Available?",
+    "intent": "general",
+    "response": "Checking bhai. Rep No / Stone ID mokalo."
+  },
+  {
+    "query": "AVAL ?",
+    "intent": "general",
+    "response": "Checking bhai. Rep No / Stone ID bhejo."
+  },
+  {
+    "query": "Sir hui kya baat?",
+    "intent": "general",
+    "response": "Samajh gaya bhai. Jaldi check karke bataata hu."
+  },
+  {
+    "query": "Sir 25pointers ka maal aaya kya??",
+    "intent": "general",
+    "response": "25 pointer check kar raha hu bhai. Abhi bataata hu."
+  },
+  {
+    "query": "Plz send me your full policy details",
+    "intent": "general",
+    "response": "Policy details bhejta hu bhai. COD/advance info bhi."
+  },
+  {
+    "query": "Any discount system?",
+    "intent": "general",
+    "response": "Discount pe baat karte hain bhai. Kya rate hai?"
+  },
+  {
+    "query": "EVERMINE STONE ID AVAILABLE ????",
+    "intent": "general",
+    "response": "EVERMINE stone ID checking bhai. Rep No or pic mokalo confirm karne ke liye."
+  },
+  {
+    "query": "Any other paralel stone ?",
+    "intent": "general",
+    "response": "Parallel stone check kar raha hu bhai. Rep No bhejo."
+  },
+  {
+    "query": "Are these available?",
+    "intent": "general",
+    "response": "Checking bhai. Rep No / Stone ID or pic bhejo."
+  },
+  {
+    "query": "G colour mein hai koi?",
+    "intent": "general",
+    "response": "G colour available hai bhai. Kaunsa size?"
+  },
+  {
+    "query": "cash ma thase?",
+    "intent": "general",
+    "response": "Cash ma thase bhai. Theek hai."
+  },
+  {
+    "query": "AVL hai sir ji?",
+    "intent": "general",
+    "response": "Checking bhai. Rep No / Stone ID bhejo."
+  },
+  {
+    "query": "1% brokerej is fixed right?",
+    "intent": "general",
+    "response": "1% brokerage fixed hai bhai. Confirm hai."
+  },
+  {
+    "query": "Can u send to my office?",
+    "intent": "general",
+    "response": "Office mein bhej sakte hain bhai. Details bhejo."
+  },
+  {
+    "query": "Shud I come now?",
+    "intent": "general",
+    "response": "Aa jao bhai. Office mein dekh sakte hain."
+  },
+  {
+    "query": "Vidoe che?",
+    "intent": "general",
+    "response": "Video bhejta hu bhai."
+  },
+  {
+    "query": "Can come now to see stns?",
+    "intent": "general",
+    "response": "Aa jao bhai. Stones dekh sakte hain."
+  },
+  {
+    "query": "All ava?",
+    "intent": "general",
+    "response": "Checking bhai. Rep No bhejo."
+  },
+  {
+    "query": "Total ma 5 $ add thase ne ?",
+    "intent": "general",
+    "response": "5$ add nahi hota bhai. Fixed price."
+  },
+  {
+    "query": "Can come to check stn?",
+    "intent": "general",
+    "response": "Aa jao bhai. Check kar sakte hain."
+  },
+  {
+    "query": "Aa stone jova mate 11.30 aavu aapani office ?",
+    "intent": "general",
+    "response": "11:30 aa jao bhai. Office mein dekh sakte hain."
+  },
+  {
+    "query": "Ane banne matching che seth?",
+    "intent": "general",
+    "response": "Matching check kar raha hu bhai."
+  },
+  {
+    "query": "Sold  che ke hold che koi no?",
+    "intent": "general",
+    "response": "Hold kar sakte hain bhai. Kaunsa stone?"
+  },
+  {
+    "query": "D VVS2 OVAL AVAIL ?",
+    "intent": "general",
+    "response": "D VVS2 Oval checking bhai. Rep No bhejo confirm karne."
+  },
+  {
+    "query": "Payment?",
+    "intent": "general",
+    "response": "Payment ready hai to confirm kar dete hain bhai."
+  },
+  {
+    "query": "Invoice ?",
+    "intent": "general",
+    "response": "Invoice bhej denge bhai. Payment ke baad."
+  },
+  {
+    "query": "Both available?",
+    "intent": "general",
+    "response": "Dono checking bhai. Rep No bhejo."
+  },
+  {
+    "query": "Can you please collect form fw4040",
+    "intent": "general",
+    "response": "FW4040 collect kar lenge bhai."
+  },
+  {
+    "query": "stone brown che?",
+    "intent": "general",
+    "response": "Brown stone checking bhai. Rep No bhejo."
+  },
+  {
+    "query": "Avl??",
+    "intent": "general",
+    "response": "Checking bhai. Rep No / Stone ID mokalo."
+  },
+  {
+    "query": "AA AVILBE ?",
+    "intent": "general",
+    "response": "Checking bhai. Rep No bhejo."
+  },
+  {
+    "query": "dilivery kya thi levani che?",
+    "intent": "general",
+    "response": "Delivery details bhejta hu bhai."
+  },
+  {
+    "query": "Client is interested can you please share photo video of this stone in hand ?",
+    "intent": "general",
+    "response": "Photo + hand video bhejta hu bhai. Abhi."
+  },
+  {
+    "query": "Are you sending  ?",
+    "intent": "general",
+    "response": "Bhej rahe hain bhai. Kab bhejna hai?"
+  },
+  {
+    "query": "Do evrmine have app ?",
+    "intent": "general",
+    "response": "Evermine app nahi hai bhai. WhatsApp pe hi chalega."
+  },
+  {
+    "query": "can i come to see these pieces ?",
+    "intent": "general",
+    "response": "Aa jao bhai. Stones dekh sakte hain."
+  },
+  {
+    "query": "Surat nathi?",
+    "intent": "general",
+    "response": "Surat delivery ready hai bhai."
+  },
+  {
+    "query": "HK delivery u do?",
+    "intent": "general",
+    "response": "HK delivery karte hain bhai. 1-2 din mein."
+  },
+  {
+    "query": "Koi avanu che andar BDB ma ?",
+    "intent": "general",
+    "response": "BDB mein check kar raha hu bhai."
+  },
+  {
+    "query": "Delivery ready ?",
+    "intent": "general",
+    "response": "Delivery ready hai bhai. Kab bhejna hai?"
+  },
+  {
+    "query": "Kyare malse delivery ?",
+    "intent": "general",
+    "response": "Delivery kab tak chahiye bhai?"
+  },
+  {
+    "query": "Niche utarse koi ?",
+    "intent": "general",
+    "response": "Niche utar sakte hain bhai. Confirm karo."
+  },
+  {
+    "query": "Aastha nu su status che ?",
+    "intent": "general",
+    "response": "Aastha ka status checking bhai."
+  },
+  {
+    "query": "can ship hk cod?",
+    "intent": "general",
+    "response": "HK COD bhej sakte hain bhai."
+  },
+  {
+    "query": "Reply please ??",
+    "intent": "general",
+    "response": "Jaldi reply kar raha hu bhai."
+  },
+  {
+    "query": "Amathi koi bhi avl ??",
+    "intent": "general",
+    "response": "Checking bhai. Rep No / Stone ID bhejo."
+  },
+  {
+    "query": "Any update?",
+    "intent": "general",
+    "response": "Update checking bhai. Abhi bataata hu."
+  },
+  {
+    "query": "Both piece available in Mumbai for QC ?",
+    "intent": "general",
+    "response": "Mumbai QC ke liye dono checking bhai."
+  },
+  {
+    "query": "Would you have ?",
+    "intent": "general",
+    "response": "Checking bhai. Rep No bhejo."
+  },
+  {
+    "query": "Do you have krish cut diamond?",
+    "intent": "general",
+    "response": "Krish cut check kar raha hu bhai."
+  },
+  {
+    "query": "Hold rakhi rakhso ?",
+    "intent": "general",
+    "response": "Hold rakhi rakh sakte hain bhai. Kaunsa?"
+  },
+  {
+    "query": "Parcel done ?",
+    "intent": "general",
+    "response": "Parcel kar dete hain bhai. Advance ya COD?"
+  }
+]
